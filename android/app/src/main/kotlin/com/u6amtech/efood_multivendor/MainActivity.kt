@@ -1,0 +1,6 @@
+package com.drokpharma.vendor
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
