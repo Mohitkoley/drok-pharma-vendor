@@ -1,4 +1,4 @@
-package com.drokpharma.vendor
+package com.drokpharma.vndr
 
 import io.flutter.embedding.android.FlutterActivity
 
